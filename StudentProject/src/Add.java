@@ -5,7 +5,7 @@ public class Add {
 		int number1=25;
 		int number2=35,result=0;
 		result=number1+number2;
-		System.out.println(result);
+		System.out.println("addition"result);
 	}
 		
 
